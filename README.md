@@ -7,6 +7,7 @@ This page is built as an assignment for the FreeCodeCamp Responsive Web Design C
 ![FreeCodeCamp Tribute Page Project](https://user-images.githubusercontent.com/18686022/143772171-0cf4733b-fa86-419d-b30a-b5d413b85486.jpg)
 
 [Live Preview](https://evrenbal.github.io/FCC-TributePage/)
+
 [View on CodePen.Io](https://codepen.io/evrenbal/pen/qBXegJR)
 
 **Objective**: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
